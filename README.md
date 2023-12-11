@@ -1,5 +1,5 @@
 # Cmps-367
-f2023_CMPS367/Quiz 1
+f2023_CMPS367/
 
 My apps primary function is to carry out 3 different objectives. 
 1. calculate user input values using order of operations
