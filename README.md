@@ -1,2 +1,2 @@
 # Cmps-367
-f2023_CMPS367/Quiz 1
+f2023_CMPS367/midterm
